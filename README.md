@@ -13,7 +13,7 @@
 2. Immune to all damages on fullmoon.
 3. Skin changed every season.
 4. Hunger level affect the characcter total damage.
-5. When dying, release shock wave and dark shiled and push away mobs.
+5. When dying, damage increased and when attacked, release shock wave and dark shield and push away mobs.
 6. Can slide like Wheeler. (Ability from Wheeler: DS Hamlet)
 7. Can teleport like Wortox. (Soul modified. Red to black color)
 8. Every treasure stats full to 100%, can summon x-mark and get random loot from it.
