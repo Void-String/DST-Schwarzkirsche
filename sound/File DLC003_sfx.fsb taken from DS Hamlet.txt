@@ -5,6 +5,3 @@ Github limit upload size to 25MB
 
 
 Put this file inside 'sound' folder
-
-
-Download file here:
